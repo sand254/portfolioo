@@ -28,7 +28,7 @@ function showToast(title, description, duration = 3000) {
 // Download functions
 function downloadResume() {
     showToast('Resume Download', 'Resume download started successfully!');
-       window.location.href = 'https://i.ibb.co/bRr4VSgx/Sandra-Ogolla-Resume.jpg';
+       window.location.href = 'https://drive.google.com/file/d/1LNvS7a08PKaZBBGIT1YLo8VSJZFgfB4V/view?usp=drive_link';
     // In a real implementation, you would trigger an actual file download
     // window.open('/path-to-your-resume.pdf', '_blank');
 }
